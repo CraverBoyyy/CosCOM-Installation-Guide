@@ -3,7 +3,8 @@
 This document will provide you to install the essential program for CosCOM 2024 workshop. There are 4 main programs that will be installed on your own computer. \
 The first step that to install all these programs you need to set up the important compilers such as Python, OpenMPI, C, C++ etc. 
 
-1. [Mathematica (Wolfram Engine) and Windows Subsystem for Linux and Terminal (For Windows User)](https://github.com/CraverBoyyy/CosCOM-Mathematica-Installation)
+0. [Windows Subsystem for Linux and Terminal (For Windows User)](https://github.com/CraverBoyyy/CosCOM-Ubunto-for-Windows)
+1. [Mathematica (Wolfram Engine)](https://github.com/CraverBoyyy/CosCOM-Mathematica-Installation)
 2. [Cobaya](https://github.com/CraverBoyyy/CosCOM-Cobaya)
 3. [CLASS and Monte Python](https://github.com/CraverBoyyy/CosCOM-CLASS-Installation)
 
